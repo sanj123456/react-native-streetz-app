@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/HelveticaNeueLTPro-BdOu.ttf",
+      "sha1": "adb2bd8fb5231c1176ef966357f1ecbc7f1c9775"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeueLTStd-Bd.ttf",
+      "sha1": "a1bed5e73f025179264e37a2c8c116688ef08475"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeueLTStd-Hv.ttf",
+      "sha1": "aba0b0f9f863281e95048de5831ad29d7b3411d5"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeueLTStd-Lt.ttf",
+      "sha1": "5eddf506d5c9ab62eed4c35285468ff9644dff3e"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeueLTStd-Md.ttf",
+      "sha1": "060892df2f7f159be6c667958a0f1cb55f4fc0ef"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeueLTStd-Roman.ttf",
+      "sha1": "48d679e84e5d8b07170df5dcd73913e86b352ad3"
+    },
+    {
+      "path": "assets/fonts/HelveticaNeueLTStd-Th.ttf",
+      "sha1": "a679c2d1199c7b628c080badd0a6ac3b312cb295"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "7237d9cf55f177702066a28a4dde1e4c7e8ab576"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "691461608329",
+    "project_id": "streetz-app",
+    "storage_bucket": "streetz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691461608329:android:d4c0e4634fe022599a0758",
+        "android_client_info": {
+          "package_name": "com.streetzapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691461608329-me409t54otgiiq2gc0th6pi9vjmvedh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streetzapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "691461608329-qnfcdn1c6fjampbp8rg9jtci6c9v5b69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streetzapp",
+            "certificate_hash": "6a27b982783c7ec0d9c65bc7c1e42fc1c77fe3c7"
+          }
+        },
+        {
+          "client_id": "691461608329-59v0cv70g3jcnmo50qf7cbshe4ciar32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgsqhbfkzuLoIZctRi8vqXQLa655_Asc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691461608329-59v0cv70g3jcnmo50qf7cbshe4ciar32.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691461608329-jcpqgge0aa1h4653sva4nrfs8vub05fp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.StreetzApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691461608329:android:958b2d0ac40734ec9a0758",
+        "android_client_info": {
+          "package_name": "com.streetzapp.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691461608329-0a7q1v0e6cngiqiege3cfvcvbrld19kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streetzapp.dev",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "691461608329-ginkl7tc60234ahedsu9h8oo7if5ejr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streetzapp.dev",
+            "certificate_hash": "6a27b982783c7ec0d9c65bc7c1e42fc1c77fe3c7"
+          }
+        },
+        {
+          "client_id": "691461608329-59v0cv70g3jcnmo50qf7cbshe4ciar32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgsqhbfkzuLoIZctRi8vqXQLa655_Asc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691461608329-59v0cv70g3jcnmo50qf7cbshe4ciar32.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691461608329-jcpqgge0aa1h4653sva4nrfs8vub05fp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.StreetzApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691461608329:android:3c7cd7ceeec498999a0758",
+        "android_client_info": {
+          "package_name": "com.streetzapp.staging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691461608329-ehmfjhkqec3bkhmggtcnsl0uhqphiv1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streetzapp.staging",
+            "certificate_hash": "6a27b982783c7ec0d9c65bc7c1e42fc1c77fe3c7"
+          }
+        },
+        {
+          "client_id": "691461608329-klsa9v345bo8hiououh09qg9766c4a4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.streetzapp.staging",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "691461608329-59v0cv70g3jcnmo50qf7cbshe4ciar32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgsqhbfkzuLoIZctRi8vqXQLa655_Asc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691461608329-59v0cv70g3jcnmo50qf7cbshe4ciar32.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "691461608329-jcpqgge0aa1h4653sva4nrfs8vub05fp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.StreetzApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

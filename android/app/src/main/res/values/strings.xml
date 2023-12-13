@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Streetz</string>
+    <string name="facebook_app_id">695455560599638</string>
+    <string name="fb_login_protocol_scheme">fb695455560599638</string>
+    <string name="facebook_client_token">b93a6baacfdd467bb841d986e496d83a</string>
+</resources>

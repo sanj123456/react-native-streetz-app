@@ -1,0 +1,30 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cSpell.words": [
+    "BHIM",
+    "ciphertext",
+    "favourite",
+    "Hyperlocal",
+    "Insta",
+    "Mithai",
+    "MYAPP",
+    "Neue",
+    "noti",
+    "Paytm",
+    "Phonepe",
+    "pincode",
+    "Pressable",
+    "resendotp",
+    "Signup",
+    "storelist",
+    "Streetz",
+    "streetzapp",
+    "textinput"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": null,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
